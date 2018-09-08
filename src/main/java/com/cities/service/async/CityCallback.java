@@ -10,8 +10,8 @@ public class CityCallback implements Callback {
 		if (exception != null) {
 			exception.printStackTrace();
 		}
-		
-		System.out.println("Topic: " + metadata.topic() + " - Partition " +  metadata.partition());
+
+		System.out.println("Topic: " + metadata.topic() + " - Partition " + metadata.partition());
 	}
 
 }
