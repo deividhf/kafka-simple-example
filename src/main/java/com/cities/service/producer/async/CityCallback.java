@@ -1,4 +1,4 @@
-package com.cities.service.async;
+package com.cities.service.producer.async;
 
 import org.apache.kafka.clients.producer.Callback;
 import org.apache.kafka.clients.producer.RecordMetadata;
