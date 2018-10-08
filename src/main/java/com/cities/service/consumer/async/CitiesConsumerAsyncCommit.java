@@ -1,4 +1,4 @@
-package com.cities.service.consumer;
+package com.cities.service.consumer.async;
 
 import java.time.Duration;
 import java.util.Collections;
